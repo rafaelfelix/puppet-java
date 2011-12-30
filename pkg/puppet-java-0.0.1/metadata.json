@@ -1,0 +1,25 @@
+{
+  "description": "UNKNOWN",
+  "license": "UNKNOWN",
+  "version": "0.0.1",
+  "project_page": "UNKNOWN",
+  "source": "UNKNOWN",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "README": "97bed985bc926f5dd5f0e2878853d6b1",
+    "tests/init.pp": "01ed568a64f272ad728054341a562406",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "manifests/init.pp": "2f8fa188aabdd7af66da278f0c05efdc",
+    "Modulefile": "31b03046120c60d30f2b2fd3791b4b2b"
+  },
+  "name": "puppet-java",
+  "types": [
+
+  ],
+  "dependencies": [
+
+  ],
+  "summary": "UNKNOWN",
+  "author": "puppet"
+}
